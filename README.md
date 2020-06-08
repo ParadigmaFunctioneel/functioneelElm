@@ -13,7 +13,7 @@ Webinar: 10 juni en 24 juni, zie
 ## Het lesmateriaal
 
 + [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login)
-+ [Hier](notebooks)
++ [Hier](notebook sources)
 
 
 ## Bronnen
