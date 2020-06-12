@@ -14,7 +14,17 @@
 
 + [Introductie Elm met Elm-REPL](introelmrepl)
 
-## Tweede sessie 
++ [De slides](nascholing-programming-paradigms.pdf)
+
++ [Over polynooms](Polynoom-workshop.pdf)
+en ook [als notebook](Polynoom-workshop.ipynb)
+
++ [Workshop10juni2020.ipynb](Workshop10juni2020.pdf)
+en ook [als notebook](Workshop10juni2020.ipynb)
+
+
+
+## Tweede sessie
 
 + Elm-web.
 
