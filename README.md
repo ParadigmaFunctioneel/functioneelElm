@@ -16,4 +16,9 @@ Webinar: 10 juni en 24 juni, zie
 + [Hier](notebook sources)
 
 
+## Nascholing
++ [Sessie 1](scholing/)
++ [Sessie 2](guesswhat/)
+
+
 ## Bronnen
