@@ -18,7 +18,7 @@ Webinar: 10 juni en 24 juni, zie
 
 ## Nascholing
 + [Sessie 1](scholing/)
-+ [Sessie 2](guesswhat/)
++ [Sessie 2: 24juni2020](scholing/sessieTeVroeg)
 
 
 ## Bronnen
