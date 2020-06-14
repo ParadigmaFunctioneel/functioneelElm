@@ -21,11 +21,3 @@ en ook [als notebook](Polynoom-workshop.ipynb)
 
 + [Workshop10juni2020](Workshop10juni2020.pdf)
 en ook [als notebook](Workshop10juni2020.ipynb)
-
-
-
-## Tweede sessie
-
-+ Elm-web.
-
-+ Het lesmateriaal en de didactiek.
