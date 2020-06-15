@@ -12,8 +12,12 @@
 
 + [De slides](nascholing-programming-paradigms.pdf)
 
-+ [Over polynooms](Polynoom-workshop.pdf)
++ [Over polynomen](Polynoom-workshop.pdf)
 en ook [als notebook](Polynoom-workshop.ipynb)
 
 + [Workshop10juni2020](Workshop10juni2020.pdf)
 en ook [als notebook](Workshop10juni2020.ipynb)
+
+# Bronnen
+
++ [Elm cheat sheet](https://github.com/ianunay/elm-cheat-sheet/blob/master/README.md)
