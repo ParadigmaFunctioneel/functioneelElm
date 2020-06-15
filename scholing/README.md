@@ -10,10 +10,6 @@
 
 + [Waarom Elm?](waaromelm)
 
-+ [Recursie](recursie)
-
-+ [Introductie Elm met Elm-REPL](introelmrepl)
-
 + [De slides](nascholing-programming-paradigms.pdf)
 
 + [Over polynooms](Polynoom-workshop.pdf)
