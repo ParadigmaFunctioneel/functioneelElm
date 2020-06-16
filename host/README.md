@@ -13,6 +13,8 @@ Het lesmateriaal is gemaakt op de server 'frajaweb', die gehost wordt door één
 Op de site Elm-lang wordt dit uitgelegd:
 
 + [Elm-lang on Web Apps](https://guide.elm-lang.org/webapps/)
+en 
++ [met meerdere pagina's](https://guide.elm-lang.org/webapps/navigation.html)
 
 + Je moet dan zelf Elm ergens geïnstalleerd hebben, namelijk om compileren.
 
