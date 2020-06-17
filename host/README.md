@@ -1,6 +1,6 @@
-# Een Elm website hosten
+# Elm: compileren, executeren, hosten
 
-Deze pagina is nog niet af, 'under construction' zogezegd...
+Op deze pagina bekijken we de verschillende mogelijkheden om Elm programma's te executeren en/of Elm-programma's te hosten.
 
 ## frajaweb
 
