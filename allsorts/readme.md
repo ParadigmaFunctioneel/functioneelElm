@@ -7,3 +7,5 @@ Inspiring and interesting examples of projects created with Elm:
 + [Elm text adventure](https://github.com/wolfadex/elm-text-adventure)
 
 + [introducing-elm-pages](https://elm-pages.com/blog/introducing-elm-pages)
+
++ [elm-compiler written in elm itself!](https://github.com/elm-in-elm/compiler)

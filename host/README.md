@@ -24,6 +24,13 @@ en
 + [https://create-with-elm.herokuapp.com/](https://create-with-elm.herokuapp.com/)
 
 
+## Elm-pages (via Netlify)  
+
++ Genereer een website met behulp van elm-pages.
++ [https://github.com/dillonkearns/elm-pages-starter](https://github.com/dillonkearns/elm-pages-starter).
++ zie de button 'Deploy to Netlify'.
+
+
 ## Opties, nog te onderzoeken:
 
 + [https://github.com/srid/elm-todomvc/tree/heroku](https://github.com/srid/elm-todomvc/tree/heroku)
