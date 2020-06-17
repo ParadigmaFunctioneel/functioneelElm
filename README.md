@@ -14,10 +14,10 @@ Webinar: 10 juni en 24 juni, zie
 
 + [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login)
 + [Hier](notebook sources)
-
++ [Elm: compileren, executeren, hosten](host/)
 
 ## Nascholing
-+ [Sessie 1](scholing/)
++ [Sessie 1: 10juni2020](scholing/)
 + [Sessie 2: 24juni2020](scholing/sessie2TeVroeg)
 
 
