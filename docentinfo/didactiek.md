@@ -13,14 +13,14 @@ Als je voor het eerst programmeert, of als voor het eerst in een nieuwe programm
 Door de op te lossen problemen groter te maken leert de leerling vanaf het nieuwe niveau steeds terug te gaan naar het bekende niveau.
 
 
-## In hoeverre komt dit terug in dit lesmateriaal?
+## Hoe komt dit terug in dit lesmateriaal?
 Het materiaal begint met een contextschets: Wat zijn programmeerparadigma's? Welke zijn er? Hoe zit dat met het functionele paradigma?
 
 Daarna wordt basiskennis bijgebracht over `recursie`. Recursie is essentiëel bij het functionele paradigma. Het is dé manier waarop herhaling bereikt wordt. Enkele recursieve toepassingen worden besproken. Deze toepassingen komen later terug in de hoofdstukken over Elm.
 
 In de volgende stap wordt een *bodem* gelegd in Elm. Door de leerling regelmatig uit te nodigen zelf dingen na/uit te zoeken of te berekenen wordt getracht  de leerling te *activeren* en de nieuwe kennis te relateren aan al eerder verworven kennis en vaardigheden, zodat het geleerde beter wordt onthouden.
 
-Het vierde en laatste deel bestaat uit meer uitdagende problemen, *toepassingen* genaamd. Om deze *challenges* op te kunnen lossen zal vaak *top down* gewerkt moeten worden, omdat deze problemen doorgaans te groot zijn om in één stap op te lossen. 
+Het vierde en laatste deel bestaat uit meer uitdagende problemen, *toepassingen* genaamd. Om deze *challenges* op te kunnen lossen zal vaak *top down* gewerkt moeten worden, omdat deze problemen doorgaans te groot zijn om in één stap op te lossen.
 
 
 
