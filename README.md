@@ -14,7 +14,8 @@ Voor informatie over de andere keuzethema's ga je naar
 + [Docenten Sessie 1: 10juni2020](scholing/)
 + [Docenten Sessie 2: 24juni2020](scholing/sessie2TeVroeg)
 + [Urenberekening](docentinfo/uren)
-+ [https://ieni.github.io/inf2019/nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
++ [Didactiek](docentinfo/didactiek)
++ [i en i over nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
 
 
 ## Keuzemodule lesmateriaal
