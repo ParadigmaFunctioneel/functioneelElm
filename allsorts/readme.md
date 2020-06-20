@@ -1,4 +1,4 @@
-# AllSorts: Inspi
+# Verdere Inspiratie Elm
 
 Inspiring and interesting examples of projects created with Elm:
 
