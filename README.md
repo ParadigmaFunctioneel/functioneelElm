@@ -9,10 +9,11 @@ Deze informatie lees je het makkelijkst op
 Voor informatie over de andere keuzethema's ga je naar
 [keuzethemas.nl](https://keuzethemas.nl/).
 
-## Nascholing voor informaticadocenten VO
+## Informatie voor informaticadocenten VO
 
-+ [Sessie 1: 10juni2020](scholing/)
-+ [Sessie 2: 24juni2020](scholing/sessie2TeVroeg)
++ [Docenten Sessie 1: 10juni2020](scholing/)
++ [Docenten Sessie 2: 24juni2020](scholing/sessie2TeVroeg)
++ [Urenberekening](docentinfo/uren)
 + [https://ieni.github.io/inf2019/nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
 
 
