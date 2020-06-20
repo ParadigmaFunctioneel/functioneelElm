@@ -2,6 +2,8 @@
 
 Inspiring and interesting examples of projects created with Elm:
 
++ [Drumlanguage](https://jxxcarlson.github.io/app/drumlanguage.html)
+
 + [jigsaw-tutorial](https://github.com/2mol/jigsaw-tutorial)
 
 + [Elm text adventure](https://github.com/wolfadex/elm-text-adventure)
@@ -11,8 +13,6 @@ Inspiring and interesting examples of projects created with Elm:
 + [elm-compiler written in elm itself!](https://github.com/elm-in-elm/compiler)
 
 + [Music composition in elm](https://discourse.elm-lang.org/t/music-composition-in-elm/3956)
-
-+ [Drumlanguage](https://jxxcarlson.github.io/app/drumlanguage.html)
 
 + [Graphs in Elm](https://github.com/jxxcarlson/elm-graph)
 
