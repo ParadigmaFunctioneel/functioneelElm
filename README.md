@@ -7,7 +7,7 @@ Deze informatie lees je het makkelijkst op
 [git-repository erachter](https://github.com/ParadigmaFunctioneel/functioneelElm).
 
 Voor informatie over de andere keuzethema's ga je naar
-[keuzethemas.nl](https://keuzethemas.nl/). 
+[keuzethemas.nl](https://keuzethemas.nl/).
 
 ## Nascholing voor informaticadocenten VO
 
@@ -22,4 +22,4 @@ Voor informatie over de andere keuzethema's ga je naar
 + [of in deze git](https://github.com/ParadigmaFunctioneel/functioneelElm/tree/master/notebooks)
 + [Hoe Elm te compileren, executeren, hosten](host/)
 
-+ [Verdere Inspiratie](allsorts/readme)
++ [Verdere Inspiratie Elm](allsorts)
