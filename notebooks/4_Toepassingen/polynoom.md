@@ -47,9 +47,7 @@ Start het elm programma
 <h2>Hoe gaan we het programma maken?</h2>
 <p>We gaan het vorige programma in Elm programmeren. Dit doen we met de volgende stappen.</p>
 
-<ol>
-	<li>Maak een recursieve functie <a href="mypow.ipynb">pow</a> die een macht berekent</li>
-	<li>Maak een recursieve functie <a href="mypowfunc.ipynb">powfunc</a> die de waarde van&nbsp; y berekent voor de waarde van x.</li>
-	<li>Maak een recursieve functie <a href="powfuncpoints.ipynb">powfuncpoints</a> die de waarden van y berekend met powfunc voor -10 &lt;= x &lt;= 10</li>
-	<li>Gebruik het resultaat van <a href="powfuncpointsdraw.ipynb">powfuncpoints</a> om een grafiek te tekenen voor -100 &lt;= x &lt;= 100</li>
-</ol>
+1. Maak een recursieve functie [pow](mypow) die een macht berekent.
+2. Maak een recursieve functie [powfunc](mypowfunc) die de waarde van `y` berekent voor de waarde van `x`.
+3. Maak een recursieve functie [powfuncpoints](powfuncpoints) die de waarden van `y` berekent met powfunc voor -10 &lt;= x &lt;= 10
+4. Gebruik het resultaat van [powfuncpoints](powfuncpointsdraw) om een grafiek te tekenen voor -100 &lt;= x &lt;= 100
