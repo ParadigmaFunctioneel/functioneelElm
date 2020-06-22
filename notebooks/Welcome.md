@@ -29,7 +29,7 @@ Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bev
 5. [Elm divers...](3_BasisElm/5_divers/5_elm_diversen)
 
 **4. Toepassingen**
-* [Introductie](4_Toepassingen/polynoom)
+* [Introductie](4_Toepassingen/introductie)
 * [Een programma om grafiek van een polynoom af te drukken](4_Toepassingen/polynoom)
 * [Een programma om een boxplot af te drukken](4_Toepassingen/boxplot)
 * [Een programma om ijskristallen te tekenen](4_Toepassingen/ijskristallen)
