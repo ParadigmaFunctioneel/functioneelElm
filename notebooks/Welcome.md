@@ -4,10 +4,10 @@ Deze Jupyter is opgezet in het kader van de ontwikkeling van lesmateriaal voor h
 
 ## Werking Jupyter
 
-Uitleg over de werking van Jupyter is terug te vinden op: [Hier](examples/Hoe%20gebruik%20je%20Jupyter.ipynb)
+Uitleg over de werking van Jupyter is terug te vinden in: [Hier](HoeGebruikJeJupyter)
 
 ## Lesmateriaal
-Het lesmateriaal is terug te vinden in de map **student**. De map bevat een kopie van de map **student** uit **notebooks**, zodat je de bestanden eenvoudig kan invullen, uitvoeren en opslaan. Mocht om wat voor reden een notebook niet meer goed werken, dan kun je deze verwijderen uit je eigen map en vervangen door een kopie uit de map **notebooks/student**.
+Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bevat een kopie van de map **student** uit **notebooks**, zodat je de bestanden eenvoudig kan invullen, uitvoeren en opslaan. Mocht om wat voor reden een notebook niet meer goed werken, dan kun je deze verwijderen uit je eigen map en vervangen door een kopie uit de map **notebooks/student**.
 
 ### Opbouw
 **1. Programmeerparadigama's**
