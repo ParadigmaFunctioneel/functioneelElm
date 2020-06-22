@@ -24,7 +24,7 @@ Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bev
 **3. Basis van Elm**
 1. [Eerste stapjes in Elm](3_BasisElm/1_EersteElm/1_elm-basis)
 2. [Functie definitie](3_BasisElm/2_Functie/2_elm-functie-definitie)
-3. [Introductie in werken met List in Elm](3_BasisElm/3_List/3.elm-Lists)
+3. [Introductie in werken met List in Elm](3_BasisElm/3_List/3_elm-Lists)
 4. [Recursie in Elm](3_BasisElm/4_Recursie/4_RecursieInElm)
 5. [Elm divers...](3_BasisElm/5_divers/5_elm_diversen)
 
