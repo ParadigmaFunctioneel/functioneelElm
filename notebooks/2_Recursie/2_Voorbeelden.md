@@ -23,7 +23,7 @@ Zolang i < N
 FiboWaarde := w1`
 ```
 
-Het is ook mogelijk om met behulp van een recursieve oplossing te berekenen wat de waarde is van een bepaald Fibonacci getal. Deze oplossing volgt eigenlijk al direct uit de definitie van de Fibonacci getallen: de waarde van het eerste Fibonacci getal is 0, de waarde van het tweede Fibonacci getal is 1 en de waarde van alle overige Fibonacci getallen is de som van de waarden van de voorgaande twee Fibonacci getallen. 
+Het is ook mogelijk om met behulp van een recursieve oplossing te berekenen wat de waarde is van een bepaald Fibonacci getal. Deze oplossing volgt eigenlijk al direct uit de definitie van de Fibonacci getallen: de waarde van het eerste Fibonacci getal is 0, de waarde van het tweede Fibonacci getal is 1 en de waarde van alle overige Fibonacci getallen is de som van de waarden van de voorgaande twee Fibonacci getallen.
 
 Hieronder is schematisch weergegeven op welke manier het zesde Fibonacci getal wordt berekend:
 
@@ -99,11 +99,11 @@ Zolang spil < laatste
 ## 2.2.3 Torens van Hanoi
 Er is een legende over een hindoe-tempel in de Indiase stad Benares onder keizer Fo Hi, waarvan de priesters, de Brahmanen, zich bezig houden met het verplaatsen van een toren van 64 gouden schijven.
 
-De schijven liggen op drie naalden van diamant, een el lang en zo dik als het lichaam van een bij. In het begin liggen alle schijven opgestapeld over één naald, gesorteerd naar grootte (grootste onder, kleinste boven). Het werk is af wanneer alle schijven zijn verplaatst naar de naald waar de schijven uiteindelijk terecht moeten komen. 
+De schijven liggen op drie naalden van diamant, een el lang en zo dik als het lichaam van een bij. In het begin liggen alle schijven opgestapeld over één naald, gesorteerd naar grootte (grootste onder, kleinste boven). Het werk is af wanneer alle schijven zijn verplaatst naar de naald waar de schijven uiteindelijk terecht moeten komen.
 
-De priesters uit de legende hadden drie regels waarmee ze rekening moesten houden: 
+De priesters uit de legende hadden drie regels waarmee ze rekening moesten houden:
 1. Een schijf ligt altijd over één van de drie pinnen.
-2. Je mag maar een schijf tegelijk verplaatsen. 
+2. Je mag maar een schijf tegelijk verplaatsen.
 3. Je mag nooit een grotere schijf boven op een kleinere schijf leggen.
 
 De opdracht is om een programma te schrijven dat de priesters precies vertelt welke schijven in welke volgorde verplaatst moeten worden.
@@ -122,7 +122,7 @@ Verplaats 3 schijven van pin 1, naar pin 2, mbv pin 3
     Verplaats 3 schijven van pin 2, naar pin 3, mbv pin 1
 ```
 
-Hiermee is het probleem (het verplaatsen van 4 schijven) verkleint tot het verplaatsen van 3 schijven. Het verplaatsen van drie schijven van pin A, naar pin B, mbv pin C gebeurt op exact dezelfde manier:	
+Hiermee is het probleem (het verplaatsen van 4 schijven) verkleint tot het verplaatsen van 3 schijven. Het verplaatsen van drie schijven van pin A, naar pin B, mbv pin C gebeurt op exact dezelfde manier:
 
 * Verplaats 2 schijven van A, naar C, mbv B
 * Verplaats een schijf van A naar B
@@ -141,7 +141,7 @@ Anders
 ```
 
 ## 2.2.4 Koch kromme
-In 1904 ontdekte de Zweedse wiskundige Helge von Koch een kromme, die nergens afleidbaar is: de Kromme Van Koch. 
+In 1904 ontdekte de Zweedse wiskundige Helge von Koch een kromme, die nergens afleidbaar is: de Kromme Van Koch.
 ![Kromme van Koch](img/kromme.png)
 
 De meetkundige constructie van de Koch-kromme verloopt als volgt:
@@ -154,7 +154,7 @@ De meetkundige constructie van de Koch-kromme verloopt als volgt:
 
 De limietfiguur die ontstaat door deze stappen herhaaldelijk uit te voeren noemt met de Kochkromme. In bovenstaande afbeelding is weergegeven hoe de Koch kromme er na 3 stappen uit ziet.
 
-Het valt niet mee om een niet-recursief algoritme te ontwerpen voor het tekenen van de Koch kromme die ontstaat na een gegeven aantal stappen. Het is daarentegen een stuk eenvoudiger om een algoritme te vinden waarin wel gebruik wordt gemaakt van recursie. 
+Het valt niet mee om een niet-recursief algoritme te ontwerpen voor het tekenen van de Koch kromme die ontstaat na een gegeven aantal stappen. Het is daarentegen een stuk eenvoudiger om een algoritme te vinden waarin wel gebruik wordt gemaakt van recursie.
 
 Het algoritme zou er dan als volgt uit zien:
 
@@ -180,28 +180,28 @@ Met de subroutine ``BerekenHoekpunten`` worden de hoekpunten (x3,y3), (x4,y4), e
 De x-coördinaat van x3 kan je berekenen door 1/3 van het verschil tussen x1 en x2 op te tellen bij x1:
 
 	x3 = x1 + (x2-x1) / 3
-    
+
 Op een vergelijkbare manier kan ook x4 worden uitgerekend:
 
 	x4 = x2 – (x2-x1) / 3
-    
+
 Ook voor de bijbehorende y-coördinaten kan deze manier worden gebruikt:
 
 	y3 = y1 + (y2-y1) / 3
 	y4 = y2 – (y2-y1) / 3
-    
+
 De berekening van het coördinaat (x5,y5) is een stuk lastiger. Hiervoor wordt eerst de coördinaat (xm,ym) van het midden tussen (x3,y3) en (x4,y4) berekend. Dit punt is tevens het midden tussen (x1, y1) en (x2, y2).
 
     xm = (x1+x2)/2
 	ym = (y1+y2)/2
-    
+
 Omdat de driehoek (x3,y3), (x4,y4),(x5,y5) een gelijkzijdige driehoek is, is de lengte van het lijnstuk (xm,ym),(x5,y5) gelijk aan de wortel van 3 keer de helft van de lengte van de zijde van de driehoek, met andere woorden: wortel 3 keer één-zesde van de lengte van het lijnstuk (x1, y1),(x2, y2). Het lijnstuk (xm,ym),(x5,y5) staat loodrecht op het lijnstuk (x1, y1),(x2, y2), 90 linksom; x5 is hierdoor xm plus wortel 3 keer één-zesde, keer het verschil tussen y2 en y1. De waarde van y5 krijg je door wortel 3 keer één-zesde, keer het verschil tussen x1 en x2 op te tellen bij ym.
 
 Dit betekent dat het coördinaat (x5,y5) als volgt kan worden berekend:
 
-    x5 = xm + ( wortel (3) / 6 ) x (y2-y1) ) 	=	(x1+x2)/2 + ( wortel (3) / 6 ) x (y2-y1) ) 
+    x5 = xm + ( wortel (3) / 6 ) x (y2-y1) ) 	=	(x1+x2)/2 + ( wortel (3) / 6 ) x (y2-y1) )
     y5 = ym + ( wortel (3) / 6 ) x (x1-x2) ) 	= 	(y1+y2)/2 + ( wortel (3) / 6 ) x (x1-x2) )
-    
+
 **BerekenHoekpunten (x1, y1, x2, y2, x3, y3, x4, y4, x5, y5)**
 ```
 x3 := x1 + (x2-x1) / 3
@@ -215,7 +215,7 @@ y5 := (y1+y2)/2 + ( (Wortel(3)) / 6 ) * (x1-x2) )
 ### 2.2.5	Dames op een schaakbord
 Een ander probleem waarbij het gebruik van recursie erg handig kan zijn om tot een oplossing te komen is het probleem van de 8 dames op een schaakbord. Een dame kan zich in rechte lijnen verplaatsen over het bord: horizontaal, verticaal en diagonaal. Een stuk dat in dezelfde kolom, rij of diagonaal staat als een dame kan door deze dame in één beweging van het bord worden geslagen.
 
-![Kromme van Koch](img/kromme2.png)
+![Kromme van Koch](img/Dames.png)
 
 We willen nu bekijken wat het maximum aantal dames is dat op een schaakbord kan worden geplaatst zonder dat de dames elkaar kunnen slaan.
 
@@ -255,7 +255,7 @@ Als aantal = 0 dan
     ToonOplossing
 Anders
     rij := 9-aantal
-    kolom := 1 
+    kolom := 1
     Zolang kolom < 9
         Als veld vrij dan
             Zet_Koningin_Op_Veld (rij, kolom)
