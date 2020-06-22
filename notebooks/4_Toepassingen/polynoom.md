@@ -1,13 +1,14 @@
 
-<h2>Wat gaan we maken?</h2>
+# Wat gaan we maken?
 
-<p>We gaan een programma maken dat een grafiek van een polynoom op het scherm afdrukt. Als je niet weet wat een polynoom is lees dan de uitleg op:</p>
+We gaan een programma maken dat een grafiek van een polynoom op het scherm afdrukt. Als je niet weet wat een polynoom is lees dan de uitleg op:
 
-<a href="https://nl.wikipedia.org/wiki/Polynoom">https://nl.wikipedia.org/wiki/Polynoom</a>
+[https://nl.wikipedia.org/wiki/Polynoom](https://nl.wikipedia.org/wiki/Polynoom)
 
-<p>Start het elm programma <a href="http://goloca.org:443/examples/powfuncpointsdraw.elm">powfuncpointsdraw.elm</a>. Je ziet het volgende:</p>
+Start het elm programma
+[powfuncpointsdraw](powfuncpointsdraw). Je ziet het volgende:
 
-![elmex2.1.png](attachment:elmex2.1.png)
+![axes](axes.png)
 
 <p>In het vakje kun je de a, b en c invullen voor functies van de vorm:</p>
 
@@ -52,5 +53,3 @@
 	<li>Maak een recursieve functie <a href="powfuncpoints.ipynb">powfuncpoints</a> die de waarden van y berekend met powfunc voor -10 &lt;= x &lt;= 10</li>
 	<li>Gebruik het resultaat van <a href="powfuncpointsdraw.ipynb">powfuncpoints</a> om een grafiek te tekenen voor -100 &lt;= x &lt;= 100</li>
 </ol>
-
-
