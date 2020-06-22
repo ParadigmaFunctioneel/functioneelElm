@@ -20,7 +20,7 @@ Voor informatie over de andere keuzethema's ga je naar
 
 ## Keuzemodule lesmateriaal
 
-+ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login), of [in deze git in 'ipynb'-formaat](https://github.com/ParadigmaFunctioneel/functioneelElm/tree/master/notebooks), of [leesbaar in deze git](notebooks/Welcome).
++ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login), of [in deze git in 'ipynb'-formaat](https://github.com/ParadigmaFunctioneel/functioneelElm/tree/master/notebooks), of [leesbaar in deze git (maar links werken nog niet allemaal)](notebooks/Welcome).
 + [Hoe Elm te compileren, executeren, hosten](host/)
 
 + [Verdere Inspiratie Elm](allsorts)
