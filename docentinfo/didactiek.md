@@ -22,7 +22,13 @@ In de volgende stap wordt een *bodem* gelegd in Elm. Door de leerling regelmatig
 
 Het vierde en laatste deel bestaat uit meer uitdagende problemen, *toepassingen* genaamd. Om deze *challenges* op te kunnen lossen zal vaak *top down* gewerkt moeten worden, omdat deze problemen doorgaans te groot zijn om in één stap op te lossen.
 
+## Aansluiten bij vakken in VO
 
+De keuze om het functionele paradigma centraal in de module te stellen was een didactische: hiermee sluiten we aan bij de lesstof van andere vakken, met name wiskunde, natuurkunde, mogelijk economie. Zie vooral de toepassingen.
+
+## Waarom Jupyter?
+
+Jupyter biedt de mogelijkheid om theorie en opgaven bij elkaar te rangschikken. De theorie en de praktijk staan daardoor vlak bij elkaar.  Een student kan de programma's executeren in een notebook. De student kan ook na het uitvoeren het notebook opslaan en dit inleveren. De antwoorden en vragen worden samen opgeslagen. 
 
 
 ## Bronnen
