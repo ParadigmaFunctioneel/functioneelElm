@@ -1,6 +1,6 @@
 # Tweede sessie over Functioneel Programmeren
 
-De 2e sessie begint om 15u30
+Deze 2e sessie begint om 15u30
 
 Op de planning:
 
@@ -12,7 +12,11 @@ Op de planning:
 
 + Lesmateriaal en didactiek
 
++ umenum
+
 + Elm-web ofwel Model View Update
+
++ (hier pauze?)
 
 + Koch / Ijskristallen
 
