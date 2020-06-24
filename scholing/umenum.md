@@ -11,25 +11,25 @@ Door eerst  `umEnUm` te vragen en daarna `UmEnUmAchterVoor`, waarbij de hoop is 
 
 ```
 UmEnUmAchterVoor voornaam achternaam =
-  umEnUm(achternaam,voornaam)
+  umEnUm achternaam voornaam
 ```
 
 ## Een volgende denkstap
 Als je extra goed kijkt zie je daarna wellicht dat het resultaat van
 
 ```
-UmEnUm("Edsger","Dijkstra")
+umEnUm("Edsger","Dijkstra")
 ```
 
 begint met de hoofdletter `E`, gevolgd door `umEnUm("Dijkstra", "dsger")` (gezien?). Dat laatste is dan weer gelijk aan `D` gevolgd door `umEnUm("dsger", "ijkstra")`, en zo voort.
 
 In pseudo-elm kunnen we dat schrijven als:
 ```
-umEnUm(w1,w2) =
+umEnUm w1 w2 =
   if length(w1) = 0 then
     w2
   else
-    head(w1) ++ unEmUm(w2,tail(w1))
+    head(w1) ++ umEnUm(w2,tail(w1))
 ```
 waarbij `head` de 1e letter van een string teruggeeft en `tail` de rest, en `++` de concatenatie van 2 strings.
 
