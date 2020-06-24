@@ -1,9 +1,20 @@
-# Tweede sessie (nog niet geweest)
+# Tweede sessie over Functioneel Programmeren
 
-De 2e sessie is 24 juni 2020.
+De 2e sessie begint om 15u30
 
-Verwachte onderwerpen:
+Op de planning:
 
-+ Elm-web.
 
-+ Het lesmateriaal en de didactiek.
++ Aftrap:
+  + Welkom.
+  + opname starten
+  + vragen vooraf?
+
++ Lesmateriaal en didactiek
+
++ Elm-web ofwel Model View Update
+
++ Koch / Ijskristallen
+
++ Afsluiten
+  + Evaluatieformulier
