@@ -12,7 +12,7 @@ Voor informatie over de andere keuzethema's ga je naar
 ## Informatie voor informaticadocenten VO
 
 + [Docenten Sessie 1: 10juni2020](scholing/)
-+ [Docenten Sessie 2: 24juni2020](scholing/sessie2TeVroeg)
++ [Docenten Sessie 2: 24juni2020](scholing/sessie2)
 + [Urenberekening](docentinfo/uren)
 + [Didactiek](docentinfo/didactiek)
 + [i en i over nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
