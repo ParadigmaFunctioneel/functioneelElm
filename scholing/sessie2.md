@@ -14,7 +14,7 @@ Op de planning:
 
 + [The case of the mysterious Umenum](umenum)
 
-+ Elm-web ofwel Model View Update
++ [Model View Update]()
 
 + [Koch / Ijskristallen](ijskristal)
 
