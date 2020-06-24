@@ -20,7 +20,8 @@ Voor informatie over de andere keuzethema's ga je naar
 
 ## Keuzemodule lesmateriaal
 
-+ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login), of [leesbaar in deze git (maar links werken nog niet allemaal)](notebooks/Welcome).
++ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login),
+  + ook hier te vinden [leesbaar in deze git](notebooks/Welcome).
 + [Hoe Elm te compileren, executeren, hosten](host/)
 
 + [Verdere Inspiratie Elm](allsorts)

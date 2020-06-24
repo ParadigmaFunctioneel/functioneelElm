@@ -14,9 +14,10 @@ Op de planning:
 
 + [The case of the mysterious Umenum](umenum)
 
-+ [Model View Update]()
++ [Model View Update](nascholing-programming-paradigms-2.pdf)
 
 + [Koch / Ijskristallen](ijskristal)
 
 + Afsluiten
   + Evaluatieformulier
+  + [Zie ook de Inspiratie-pagina](../allsorts/readme). 
