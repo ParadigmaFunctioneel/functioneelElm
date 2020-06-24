@@ -63,17 +63,57 @@ head = String.slice 0 1
 ```
 Functie `slice` verwacht 3 parameters, de gecurryde versie `head` verwacht 1 parameter (en ja, ik denk dat je *gecurryde* zo schrijft).
 
-## pattern matching (alternatieve manier)
+## Of: met List en pattern matching (alternatieve manier)
 
-Een andere manier is met List. Zet de string om naar een List:
+Een andere manier om *umEnUm* voor elkaar te krijgen is met List. Hierkomen ook een paar typische functional programming specifics om de hoek. String naar List en terug kan met:
 ```
 List.toString
 List.fromString
 ```
 
-zip...
+Het idee is nu dat we de 2 Lists (met karakters) gaan `zip`pen tot 1.
 
-In functioneel programmeren wordt vaak een
+Een List kan 2 vormen hebben:
++ Een lege List, genoteerd als: []
++ Een element gevolgd door een List, notatie:   a::l
+
+Aansluitend bij deze recursieve definitie kan er aan `pattern matching` gedaan worden:
+
+```
+case list of
+  [] -> emptyCase
+  a::l -> nonEmptyCase
+```
+
+Als `list` de lege list is is het resultaat hiervan `emptyCase`. Als daarentegen de List niet leeg is (dus bestaat uit een eerste element, hier `a`, en 'de rest van de list', hier `l`) is het resultaat `nonEmptyCase`. In `nonEmptyCase` mogen de variabelen `a` en `l` gebruikt worden.  
+
+De te schrijven functie `zip` kan er dus uitzien als:
+```
+zip l m =
+  case l of
+    [] -> m
+    a::n -> a :: (zip m n)
+```
+
+Dit kunnen we al testen met 2 Lists met de letters erin:
+
+```
+zip ("E"::"d"::"s"::"g"::"e"::"r"::[]) ("D"::"i"::"j"::"k"::"s"::"t"::"r"::"a"::[])
+```
+
+maar helemaal 'af' is het als we definiëren
+```
+umEnUm w1 w2 =
+  String.fromList (zip (String.toList w1) (String.toList w2))
+```
+
+En dan is het zoeken naar woorden die gezipt iets nieuws opleveren, bijvoorbeeld:
+
+```
+umEnUm "jan" "ona"
+```
 
 
-## Van bomen naar bos
+## Bronnen
+
++ [destructuring / pattern matching](https://gist.github.com/yang-wei/4f563fbf81ff843e8b1e)
