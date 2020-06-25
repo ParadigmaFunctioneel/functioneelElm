@@ -20,4 +20,6 @@ Op de planning:
 
 + Afsluiten
   + Evaluatieformulier
-  + [Zie ook de Inspiratie-pagina](../allsorts/readme). 
+  + [Zie ook de Inspiratie-pagina](../allsorts/readme).
+
+[Opname van de 2e sessie](https://www.dropbox.com/s/yyim4sl3k2skhe9/Programmeer%20paradigma%27s%3A%20functioneel%20programmeren%20met%20elm%2C%20deel%202%202020-06-24-15-34-20.mp4?dl=0)
