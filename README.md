@@ -1,6 +1,6 @@
 # Functioneel programmeren in Elm
 
-Informatie over de informatica VO (Voortgezet Onderwijs) keuzemodule over programmeerparadigma's, specifiek functioneel programmeren. Een en ander aan de hand van de functionele programmeertaal Elm.
+Informatie over de Informatica Voortgezet Onderwijs keuzemodule over programmeerparadigma's, specifiek functioneel programmeren. Na een algemene inleiding wordt het programmeren behandeld aan de hand van de functionele programmeertaal Elm.
 
 Voor informatie over de andere keuzethema's ga je naar
 [keuzethemas.nl](https://keuzethemas.nl/).
@@ -10,10 +10,12 @@ Voor informatie over de andere keuzethema's ga je naar
 + [Urenberekening](docentinfo/uren)
 
 
-## Keuzemodule lesmateriaal
+## Het lesmateriaal
 
 + [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login),
-  + ook hier te vinden [leesbaar in deze git](notebooks/Welcome).
++ [De inhoud staat ook hier](notebooks/Welcome).
+
+
 + [Hoe Elm te compileren, executeren, hosten](host/)
 + [Verdere Inspiratie Elm](allsorts)
 
