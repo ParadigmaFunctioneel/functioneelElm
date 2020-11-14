@@ -1,6 +1,8 @@
 # Functioneel programmeren in Elm
 
-Informatie over de Informatica Voortgezet Onderwijs keuzemodule over programmeerparadigma's, specifiek functioneel programmeren. Na een algemene inleiding wordt het programmeren behandeld aan de hand van de functionele programmeertaal Elm.
+Informatie over de Informatica Voortgezet Onderwijs keuzemodule over programmeerparadigma's, specifiek functioneel programmeren.
+
+Het materiaal begint met een algemene inleiding over programmeerparadigma's. Daarna wordt specifiek op recursie en functioneel programmeren ingegaan. Tot slot wordt de functionele programmeertaal Elm geïntroduceerd met voorbeelden.
 
 Voor informatie over de andere keuzethema's ga je naar
 [keuzethemas.nl](https://keuzethemas.nl/).
