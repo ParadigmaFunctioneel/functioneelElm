@@ -2,8 +2,6 @@
 
 Informatie over de informatica VO (Voortgezet Onderwijs) keuzemodule over programmeerparadigma's, specifiek functioneel programmeren. Een en ander aan de hand van de functionele programmeertaal Elm.
 
-[Home (github pages)](https://paradigmafunctioneel.github.io/functioneelElm/).
-
 Voor informatie over de andere keuzethema's ga je naar
 [keuzethemas.nl](https://keuzethemas.nl/).
 
