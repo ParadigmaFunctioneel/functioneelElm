@@ -7,19 +7,21 @@ Het materiaal begint met een algemene inleiding over programmeerparadigma's. Daa
 Voor informatie over de andere keuzethema's ga je naar
 [keuzethemas.nl](https://keuzethemas.nl/).
 
-## Informatie voor informaticadocenten VO
-+ [Didactiek](docentinfo/didactiek)
-+ [Urenberekening](docentinfo/uren)
-
-
 ## Het lesmateriaal
 
 + [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login),
 + [De inhoud staat ook hier](notebooks/Welcome).
 
 
+## Meer over Elm
 + [Hoe Elm te compileren, executeren, hosten](host/)
 + [Verdere Inspiratie Elm](allsorts)
+
+
+
+## Informatie voor informaticadocenten VO
++ [Didactiek](docentinfo/didactiek)
++ [Urenberekening](docentinfo/uren)
 
 
 ## Informatie bijscholingssessies voor docenten
