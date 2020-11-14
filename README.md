@@ -6,7 +6,7 @@ Informatie over de Informatica Voortgezet Onderwijs keuzemodule over programmeer
 
 Het materiaal begint met een algemene inleiding over programmeerparadigma's. Daarna wordt specifiek op recursie en functioneel programmeren ingegaan. Tot slot wordt de functionele programmeertaal Elm geïntroduceerd met voorbeelden.
 
-Voor informatie over de andere keuzethema's ga je naar
+Informatie over andere keuzethema's vind je op
 [keuzethemas.nl](https://keuzethemas.nl/).
 
 ## Het lesmateriaal
