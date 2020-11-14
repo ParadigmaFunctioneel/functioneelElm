@@ -1,15 +1,18 @@
 
-# Welcome
-Deze Jupyter is opgezet in het kader van de ontwikkeling van lesmateriaal voor het onderwerk Programmeerparadigma.
+# Welkom bij de Module Programmeerparadigma Functioneel Programmeren
 
-## Werking Jupyter
+## Inleiding
+
+Het materiaal is ontwikkeld om met behulp van Jupyter te gebruiken. Jupyter is een omgeving om interactief te programmeren, zodat het lesmateriaal door leerlingen gebruikt kan worden.  Deze Jupyter is opgezet in het kader van de ontwikkeling van lesmateriaal voor het onderwerp Programmeerparadigma.
+
+## Werking over Jupyter en over het lesmateriaal op Frajaweb
 
 Uitleg over de werking van Jupyter is terug te vinden in: [Hier](HoeGebruikJeJupyter)
 
-## Lesmateriaal
 Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bevat een kopie van de map **student** uit **notebooks**, zodat je de bestanden eenvoudig kan invullen, uitvoeren en opslaan. Mocht om wat voor reden een notebook niet meer goed werken, dan kun je deze verwijderen uit je eigen map en vervangen door een kopie uit de map **notebooks/student**.
 
 ### Opbouw
+
 **1. Programmeerparadigama's**
 1. [Inleiding programmeerparadigma's](1_Inleiding/1_Inleiding)
 2. [Paradigma's](1_Inleiding/2_Paradigmas)
