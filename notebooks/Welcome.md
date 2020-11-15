@@ -11,9 +11,9 @@ Uitleg over de werking van Jupyter is terug te vinden in: [Hier](HoeGebruikJeJup
 
 Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bevat een kopie van de map **student** uit **notebooks**, zodat je de bestanden eenvoudig kan invullen, uitvoeren en opslaan. Mocht om wat voor reden een notebook niet meer goed werken, dan kun je deze verwijderen uit je eigen map en vervangen door een kopie uit de map **notebooks/student**.
 
-### Opbouw
+## Opbouw
 
-**1. Programmeerparadigama's**
+**1. Programmeerparadigma's**
 1. [Inleiding programmeerparadigma's](1_Inleiding/1_Inleiding)
 2. [Paradigma's](1_Inleiding/2_Paradigmas)
 3. [Programmeerparadigma's](1_Inleiding/3_Programmeerparadigmas)

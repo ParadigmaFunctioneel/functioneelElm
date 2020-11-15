@@ -9,7 +9,7 @@ Er zijn veel typische problemen waarbij het gebruik van recursie erg handig kan 
 
 De rij van Fibonacci getallen wordt soms ook wel de konijnenrij genoemd. Het idee hiervan is dat met deze getallen de voortplantingssnelheid van konijnen wordt weergegeven.
 
-De opdracht is om een programma te schrijven dat een bepaald (het Ne) Fibonacci getal berekent. De klassieke manier om dit te doen is:
+De opdracht is om een programma te schrijven dat een bepaald (het N-de) Fibonacci getal berekent. De klassieke manier om dit te doen is:
 
 **FiboWaarde(N)**
 ```
