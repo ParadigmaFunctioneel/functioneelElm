@@ -40,4 +40,4 @@ Het lesmateriaal is (frajaweb) terug te vinden in de map **student**. De map bev
 
 
 ## Docenten
-Docenten kunnen toegang krijgen tot een speciale map met uitwerkingen en instructies. Hiervoor dienen zij een e-mail naar admin@frajaweb.nl te sturen. Uit de e-mail moet duidelijk blijken dat de aanvraag is verstuurd vanuit een docent. Deze e-mail moet tenministe de github-gebruikersnaam bevatten.
+Docenten kunnen toegang krijgen tot een speciale map met uitwerkingen en instructies. Hiervoor dienen zij een e-mail naar admin@frajaweb.nl te sturen. Uit de e-mail moet duidelijk blijken dat de aanvraag is verstuurd vanuit een docent. Deze e-mail moet tenminste de github-gebruikersnaam bevatten.
