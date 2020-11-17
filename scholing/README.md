@@ -4,7 +4,7 @@
 
 + [uitgangspunten bij deze workshop](uitgangspunten)
 
-+ [Wat is een paradigma en waarom zijn er meeredere](paradigma)
++ [Wat is een paradigma en waarom zijn er meerdere](paradigma)
 
 + [Enkele aspecten van functioneel programmeren](funcprog)
 
