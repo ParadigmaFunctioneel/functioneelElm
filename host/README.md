@@ -5,12 +5,16 @@ Op deze pagina bekijken we de verschillende mogelijkheden om Elm programma's te 
 ## Elm online
 
 Het is mogelijk Elm online uit te  proberen zonder te installeren.
-[Try Elm online](https://elm-lang.org/try)
++ [Try Elm online](https://elm-lang.org/try)
++ [Elm guide](https://guide.elm-lang.org/)
 
 ## Elm REPL en reactor
 
 Als je de *guide* volgt kom je vanzelf bij de uitleg
 [guide ](https://guide.elm-lang.org/)
+voor de installatie.
+
+(Opmerking: het kan zijn dat je bij installatie een security melding krijgt dat je een gedownload programma wil uitvoeren). 
 
 ## frajaweb
 
@@ -41,12 +45,12 @@ Nog geen hands-on ervaring mee.
 
 ## Elm-pages (via Netlify)  
 
-+ Genereer een website met behulp van elm-pages. 
++ Genereer een website met behulp van elm-pages.
 + [https://github.com/dillonkearns/elm-pages-starter](https://github.com/dillonkearns/elm-pages-starter).
 + zie de button 'Deploy to Netlify'.
 
 
-## Opties, nog te onderzoeken:
+## Mogelijk opties, nog niet onderzocht:
 
 + [https://github.com/srid/elm-todomvc/tree/heroku](https://github.com/srid/elm-todomvc/tree/heroku)
 
