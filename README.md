@@ -38,3 +38,7 @@ Informatie over andere keuzethema's vind je op
 + [Docenten Sessie 1: 10jun2020](scholing/202006.sessie1)
 + [Docenten Sessie 2: 24jun2020](scholing/202006.sessie2)
 + [i en i over nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
+
+## Contact
+
++ Vragen/opmerkingen? We horen het graag. Stuur een email naar C.Crombach@Fontys.nl
