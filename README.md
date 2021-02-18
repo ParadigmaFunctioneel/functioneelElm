@@ -9,7 +9,7 @@ Het materiaal begint met een algemene inleiding over programmeerparadigma's. Daa
 Informatie over andere keuzethema's vind je op
 [keuzethemas.nl](https://keuzethemas.nl/).
 
-## Het lesmateriaal
+## Het lesmateriaal van de lesmodule
 
 + [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login),
 + [De inhoud staat ook hier](notebooks/Welcome).
