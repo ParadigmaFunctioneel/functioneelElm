@@ -21,3 +21,5 @@ Inspiring and interesting examples of projects created with Elm:
 + [particles](https://github.com/jxxcarlson/particle)
 
 + [Random Walk: a simulation of a simple dice-playing game](https://github.com/jxxcarlson/randomWalk)
+
++ [# Live Coding an Instagram Clone Using Elm](https://www.youtube.com/watch?v=C4LU4_heFrs)
