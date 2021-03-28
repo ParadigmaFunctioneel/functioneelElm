@@ -1,4 +1,5 @@
 # Functioneel programmeren in Elm
+Dit is de landingspagina van het thema Programmeerparadigma's voor het VO. 
 
 ## Introductie
 
@@ -11,7 +12,7 @@ Informatie over andere keuzethema's vind je op
 
 ## Het lesmateriaal van de lesmodule
 
-+ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login),
++ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login) (nog beschikbaar tijdens schgooljaar 2020-2021)
 + [De inhoud staat ook hier](notebooks/Welcome).
 
 
@@ -22,10 +23,9 @@ Informatie over andere keuzethema's vind je op
 
 
 
-## Informatie voor informaticadocenten VO
+## Docenteninformatie 
 
-+ [Didactiek](docentinfo/didactiek)
-+ [Urenberekening](docentinfo/uren)
+Zie de [docentenhandleiding](docenteninfo/docentenhandleiding)
 
 
 ## Bijscholingssessies november 2020 voor docenten
@@ -41,4 +41,5 @@ Informatie over andere keuzethema's vind je op
 
 ## Contact
 
-+ Vragen/opmerkingen? We horen het graag. Stuur een email naar C.Crombach@Fontys.nl
++ Vragen/opmerkingen? Fouten of broken links doorgeven? We horen graag van u! Stuur een email naar 
+[C.Crombach@Fontys.nl](mailto:C.Crombach@Fontys.nl)
