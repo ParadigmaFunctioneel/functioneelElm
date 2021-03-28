@@ -25,7 +25,7 @@ Informatie over andere keuzethema's vind je op
 
 ## Docenteninformatie 
 
-Zie de [docentenhandleiding](docentinfo/docentenhandleiding)
++ [docentenhandleiding](docentinfo/docentenhandleiding)
 
 
 ## Bijscholingssessies november 2020 voor docenten
