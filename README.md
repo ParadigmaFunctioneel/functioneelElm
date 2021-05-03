@@ -12,7 +12,7 @@ Informatie over andere keuzethema's vind je op
 
 ## Het lesmateriaal van de lesmodule
 
-+ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login) (nog beschikbaar tijdens schgooljaar 2020-2021)
++ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login) (nog beschikbaar tijdens schooljaar 2020-2021)
 + [De inhoud staat ook hier](notebooks/Welcome).
 
 
@@ -27,17 +27,6 @@ Informatie over andere keuzethema's vind je op
 
 + [docentenhandleiding](docentinfo/docentenhandleiding)
 
-
-## Bijscholingssessies november 2020 voor docenten
-
-+ [Docenten Sessie 1: 18nov2020](scholing/202011.sessie1)
-+ [Docenten Sessie 2: 25nov2020](scholing/202011.sessie2)
-
-## Eerdere sessies
-
-+ [Docenten Sessie 1: 10jun2020](scholing/202006.sessie1)
-+ [Docenten Sessie 2: 24jun2020](scholing/202006.sessie2)
-+ [i en i over nascholing.html](https://ieni.github.io/inf2019/nascholing.html)
 
 ## Contact
 
