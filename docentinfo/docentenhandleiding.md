@@ -1,4 +1,4 @@
-# Docentenhandleiding 
+# Docenteninformatie 
 
 Deze informatie is van belang voor docenten. Voor leerlingen zal dit niet interessant zijn. De meeste docentenmaterialen zijn wel openbaar beschikbaar. 
 
