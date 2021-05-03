@@ -4,7 +4,7 @@ Deze informatie is van belang voor docenten. Voor leerlingen zal dit niet intere
 
 + [Didactiek](didactiek)
 + [Urenberekening](uren)
-+ [nut en de noodzaak van de module](nutNoodzaak)
++ [Nut en de noodzaak van de module](nutNoodzaak)
 + [Hoe zet je de module in?](hoeInzetten)
 + [Hoe kun je de module beschikbaar stellen voor je leerlingen](hoeBeschikbaar)
 
