@@ -18,7 +18,7 @@ De uitwerkingen van de opgaven zijn dat niet: die zijn op aanvraag.
 + [Docenten Sessie 1: 18nov2020](../scholing/202011.sessie1)
 + [Docenten Sessie 2: 25nov2020](../scholing/202011.sessie2)
 
-## Eerdere sessies
+## Eerdere bijscholingssessies
 
 + [Docenten Sessie 1: 10jun2020](../scholing/202006.sessie1)
 + [Docenten Sessie 2: 24jun2020](../scholing/202006.sessie2)
