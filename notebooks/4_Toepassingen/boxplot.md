@@ -19,12 +19,8 @@ Je ziet deze boxplot:
 ## Hoe gaan we een boxplot maken?
 We gaan het vorige programma in Elm programmeren. Dit doen we met de volgende stappen. 
 
-.1. Maak een recursieve functie 
-[mymergesort](mymergesort)
-om de lijst te sorteren. 
+.1. Maak een recursieve functie [mymergesort](mymergesort) om de lijst te sorteren. 
 
-Maak functie 
-<a href="myboxplotdata.ipynb">boxplotdata</a> 
-om de gegevens voor een boxplot te bepalen. 
+.2. Maak functie [boxplotdata](myboxplotdata) om de gegevens voor een boxplot te bepalen. 
 
-Maak functie <a href="myboxplotdatadraw.ipynb">boxplotdatadraw</a> om op basis van de gegevens van een boxplot een boxplot te tekenen. 
+.3. Maak functie [myboxplotdatadraw](myboxplotdatadraw) om op basis van de gegevens van een boxplot een boxplot te tekenen. 
