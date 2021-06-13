@@ -83,7 +83,7 @@ List.head (83 :: 42 :: (List.range 1 9))
 
 ```
 
-'Maybe'? Ja, want misschien was de List wel leeg en dan wordt er geen Int teruggegeven. Maybe is het een goed idee zelf op internet nog wat informatie op te zoeken, gebruik bijvoorbeeld de keywords 'elm lang just maybe'.
+'Maybe'? Ja, want misschien was de List wel leeg en dan wordt er geen Int teruggegeven. Maybe is het een goed idee zelf op internet nog wat informatie op te zoeken, gebruik bijvoorbeeld de keywords 'elm lang List maybe'.
 
 Nog een voorbeeld van Head:
 
