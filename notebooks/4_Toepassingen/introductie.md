@@ -1,4 +1,3 @@
-
 # Introductie
 
 Als afsluiting van de module programmeerparadigma’s met Elm gaan we drie Toepassingen programmeren die te maken hebben met wat jullie bij wiskunde geleerd hebben.
