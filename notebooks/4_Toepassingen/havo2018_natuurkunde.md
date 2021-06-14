@@ -86,7 +86,7 @@ import Html exposing(..)
 
 # Antwoord Vraag4
 
-![havo2018.4.2.png](havo2018.4.2.png)
+![havo2018.4.2.png](img/havo2018.4.2.png)
 
 # Algemene Uitwerking Vraag4
 Bestudeer de Algemene Uitwerking van Vraag4.
