@@ -1,7 +1,5 @@
 
-<p>Je gaat een recursie functie <strong>pow</strong> maken.&nbsp; Deze functie <strong>pow</strong> heeft als invoer twee getallen g en m en geeft als uitvoer g<sup>m</sup>.&nbsp; Je gebruikt de functie <strong>pow</strong> later om functies te bereken van de vorm y = ax<sup>2</sup> + bx + c. Daarom is de functie <strong>pow</strong> goed genoeg als je voor m alleen gehele positieve getallen mag gebruiken. De functie pow heeft als uitkomst een getal dat g<sup>m</sup> weergeeft.</p>
-
-<p>Start het elm programma <a href="http://goloca.org:443/examples/pow.elm">pow.elm</a>. Vul in het vakje 2,3 in en druk op Enter. Je vraagt nu om 2<sup>3</sup> te berekenen en het resultaat is 8. Vul nog wat meer waarden voor g en m in en check de uitkomst.</p>
+<p>Je gaat zelf een recursieve functie <strong>pow</strong> maken. Deze functie <strong>pow</strong> heeft als invoer twee getallen g en m en geeft als uitvoer g<sup>m</sup> (`g tot de macht m`). Je gebruikt de functie <strong>pow</strong> later om functies te bereken van de vorm y = ax<sup>2</sup> + bx + c. Daarom is de functie <strong>pow</strong> goed genoeg als je voor m alleen gehele positieve getallen mag gebruiken. De functie pow heeft als uitkomst een getal dat g<sup>m</sup> weergeeft.</p>
 
 <p>Run het elm programma <strong>mypow.elm</strong> in de volgende cell. Elm geeft als foutmelding dat de functie <strong>pow</strong> ontbreekt. Dat klopt want dat is nu juist de functie die jij zelf moet schrijven.</p>
 
@@ -31,18 +29,18 @@ listStringToListFloat ls =
 
 powTest : String -> String
 powTest s =
-  let 
+  let
     lf = listStringToListFloat (split "," s)
-    g = 
+    g =
       withDefault 0 (head lf)
-    m = 
+    m =
       withDefault 0 (head (withDefault [] (tail lf)))
   in
     toString (pow g m)
-    
+
 main =
-  beginnerProgram 
-  { model = 
+  beginnerProgram
+  { model =
     { outputData = ""
     , inputData = ""
     }
@@ -52,7 +50,7 @@ main =
 
 
 view model =
-  div [] 
+  div []
   [ input [onKeyDown KeyDown, onInput Input] []
   , div [] [ text ("Result: " ++ model.outputData) ]
   ]
@@ -60,8 +58,8 @@ view model =
 onKeyDown : (Int -> msg) -> Html.Attribute msg
 onKeyDown tagger =
   on "keydown" (Json.map tagger keyCode)
-  
-type Msg 
+
+type Msg
   = NoOp
   | KeyDown Int
   | Input String
@@ -85,20 +83,3 @@ update msg model =
 pow : Float -> Int -> Float
 -- compile-code
 ```
-
-
-<pre>-- MISSING DEFINITION ------------------------------- /tmp/tmpsl8z_cev/input.elm
-
-There is a type annotation for `pow` but there is no corresponding definition!
-
-70| pow : Float -> Float -> Float
-    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Directly below the type annotation, put a definition like:
-
-    pow = 42
-
-Detected errors in 1 module.
-</pre>
-
-
-<div id="spot"></div>

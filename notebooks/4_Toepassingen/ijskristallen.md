@@ -11,7 +11,7 @@
 
 ![elmex3.2.png](attachment:elmex3.2.png)
 
-<h2>Hoe gaan we een ijskrinstallen maken</h2> 
+<h2>Hoe gaan we een ijskrinstallen maken</h2>
 
 <p>In de cell hieronder staat het bestand <strong>myijskristallen.elm</strong>. Deze&nbsp; code staat in het view model daarvan.</p>
 
@@ -141,7 +141,7 @@ startP2 =
 startP3 : Point
 startP3 =
     Point -150 100
-    
+
 pointsListToString: List Point -> String
 pointsListToString l =
 
@@ -171,15 +171,15 @@ view model =
 
            [ g [ transform "translate(100, 100) scale(0.5,-0.5)" ]
 
-                 [ 
+                 [
                     polyline [ fill "none", stroke "black", points path] []
 
                 ]
 
            ]
           ]
-          
-type Msg 
+
+type Msg
   = Change String
 
 update : Msg -> Model -> Model
@@ -192,6 +192,3 @@ update msg model =
 
 
 <div id="elm-div-6"></div>
-
-
-
