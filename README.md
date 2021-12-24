@@ -13,7 +13,6 @@ Informatie over andere keuzethema's vind je op
 ## Het lesmateriaal van de lesmodule
 
 + [Vind de inhoud hier](notebooks/Welcome).
-+ [Interactief Op frajaweb (log in met github-account)](https://jupyterhub.frajaweb.com/hub/login) (nog beschikbaar tijdens schooljaar 2020-2021)
 
 
 ## Meer over Elm
