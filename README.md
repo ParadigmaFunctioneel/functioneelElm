@@ -1,6 +1,8 @@
 # Functioneel programmeren in Elm
 Dit is de landingspagina van het thema Programmeerparadigma's voor het VO. 
 
+Gebruik deze url: [https://paradigmafunctioneel.github.io/functioneelElm/](https://paradigmafunctioneel.github.io/functioneelElm/) voor de correcte links.   
+
 ## Introductie
 
 Informatie over de Informatica Voortgezet Onderwijs keuzemodule over programmeerparadigma's, specifiek functioneel programmeren.
@@ -27,7 +29,9 @@ Informatie over andere keuzethema's vind je op
 + [docentenhandleiding](docentinfo/docentenhandleiding)
 
 
-## Contact
+## Vragen? / Contact
+
++ Gebruik deze url: [https://paradigmafunctioneel.github.io/functioneelElm/](https://paradigmafunctioneel.github.io/functioneelElm/) voor de correcte links.   
 
 + Vragen/opmerkingen? Fouten of broken links doorgeven? We horen graag van u! Stuur een email naar 
 [C.Crombach@Fontys.nl](mailto:C.Crombach@Fontys.nl)
