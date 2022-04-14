@@ -35,3 +35,6 @@ Informatie over andere keuzethema's vind je op
 
 + Vragen/opmerkingen? Fouten of broken links doorgeven? We horen graag van u! Stuur een email naar 
 [C.Crombach@Fontys.nl](mailto:C.Crombach@Fontys.nl)
+
+## Verantwoording
+![SLO-verantwoording](img/SLO-verantwoording.png)
